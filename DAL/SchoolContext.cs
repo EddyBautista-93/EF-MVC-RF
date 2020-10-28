@@ -5,7 +5,7 @@ using System.Web;
 using EF_MVC_RF.Models;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
-using ContosoUniversity.Models;
+
 
 namespace EF_MVC_RF.DAL
 {

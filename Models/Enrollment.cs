@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using EF_MVC_RF.Models;
 
-namespace ContosoUniversity.Models
+namespace EF_MVC_RF.Models
 {
     public enum Grade
     {

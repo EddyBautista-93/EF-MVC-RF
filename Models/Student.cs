@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using EF_MVC_RF.Models;
 
 
 namespace EF_MVC_RF.Models
